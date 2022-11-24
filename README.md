@@ -1,2 +1,2 @@
-Hackerrank solutions using MySQL.
+Hacker-rank solutions in-sync with MySQL syntax. 
 

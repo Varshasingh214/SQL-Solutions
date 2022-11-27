@@ -1,2 +1,2 @@
-Hacker-rank solutions to all basic problems in-sync with MySQL syntax. 
+Hacker-rank solutions to all problems in-sync with MySQL syntax. 
 
